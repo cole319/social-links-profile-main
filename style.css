@@ -27,7 +27,7 @@ body {
 
 .profile__card {
   background-color: var(--grey-800);
-  width: 25rem;
+  width: 24rem;
   padding: 2rem;
   border-radius: 0.8rem;
 }
